@@ -2,7 +2,7 @@
     "styles": {
         "website": "./styles/page.css"
     },
-    "plugins": ["editlink"],
+    "plugins": ["editlink","anchors"],
     "pluginsConfig": {
         "editlink": {
             "base": "https://www.gitbook.com/book/gu321/gu321/edit#/edit/master",
