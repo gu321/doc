@@ -1,5 +1,5 @@
+# 配置环境
 
-### 配置环境
 
 #### WEB端
 
@@ -11,10 +11,14 @@
 
 普通开发者只有只读权限，代码改动请提交pull request。
 
-所以，首先请fork源码，然后clone自己的源码。
+开发流程采用fork+pull request开发模式，参见
+
+* [《如何在github上fork一个项目来贡献代码以及同步原作者的修改》](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)。
+
+
+所以，**首先请fork源码，然后clone自己的源码**。
 
 源码目录关系如下
-
 
 ```
 tz -> ~/tz
