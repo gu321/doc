@@ -10,13 +10,13 @@
 
 
 
-## 部署环境
+## 部署线上服务器
 
+数据库和caddy都运行在主机上，应用进程运行在容器内。
 
 线上完整环境配置请参考基于腾讯云的一键部署脚本 
 
-[cli/yun/init.sh
-](http://git.oschina.net/gu321/tz/blob/master/cli/yun/init.sh)
+[cli/yun/init.sh](http://git.oschina.net/gu321/tz/blob/master/cli/yun/init.sh)
 
 主机环境为centos7 ， 运行时环境基于docker ubuntu
 
@@ -33,15 +33,17 @@ exec $SH docker exec -it gu321 timeout 24h bash -c "su\ -\ ol"
 其中，每次连接貌似都是创建一个bash进程（退出的时候也不会消失），加上timeout是为了防止bash进程越来越多。
 
 
-## 个人开发环境部署
+## 部署个人开发环境
 
-数据库和caddy都运行在主机上，应用进程运行在容器内。
+因为线上环境的postgresql是用的腾讯云的数据库，所以，开发环境自己启动一个postgresql
 
+参考 [cli/yun/init_tz.sh](http://git.oschina.net/gu321/tz/blob/master/cli/yun/init_tz.sh) 脚本，初始化postgresql数据库。
 
-[daocloud.io](https://dashboard.daocloud.io/orgs/vcwatch/build-flows/bba47cb4-13d4-4720-8790-f9926aa7eeb9)上有构建好的容器，申请访问权限后，参考线上环境部署脚本pull启动即可。
+然后 [daocloud.io](https://dashboard.daocloud.io/orgs/vcwatch/build-flows/bba47cb4-13d4-4720-8790-f9926aa7eeb9)上有构建好的容器，申请访问权限后，参考线上环境部署脚本pull启动即可。
 
+#TODO@碧海潮生 : 参考线上部署的脚本，补充完善如何进行个人开发环境的部署
 
-**TODO@碧海潮生 : 参考线上部署的脚本，补充完善如何进行个人开发环境的部署**
+init_tz.sh
 
 ### 配置文件
 
