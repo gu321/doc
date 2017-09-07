@@ -1,7 +1,7 @@
 {
     "styles": {
         "website": "./styles/page.css"
-    }，
+    },
     "plugins": ["editlink"],
     "pluginsConfig": {
         "editlink": {
