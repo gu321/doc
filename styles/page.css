@@ -3,6 +3,9 @@
 body{
 background:url(//o3cuh1dri.qnssl.com/FDBPmFk.png) 0 0/412px #fafafa;
 }
+.book-body{
+background:rgba(255,255,255,.4);
+}
 a{
 cursor:pointer;
 }
