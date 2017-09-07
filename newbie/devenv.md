@@ -4,8 +4,8 @@
 #### WEB端
 
 
-源码 [git.oschina.net/gu321/tz](http://git.oschina.net/gu321/tz)
-配置文件 [git.oschina.net/gu321/tz_config](http://git.oschina.net/gu321/tz_config)
+* 源码 [git.oschina.net/gu321/tz](http://git.oschina.net/gu321/tz)
+* 配置文件 [git.oschina.net/gu321/tz_config](http://git.oschina.net/gu321/tz_config)
 
 代码私有，请注册账号，告知管理员，申请只读权限。
 
