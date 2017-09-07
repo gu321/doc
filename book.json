@@ -2,6 +2,7 @@
     "styles": {
         "website": "./styles/page.css"
     },
+    "language" : "zh-hans",
     "plugins": ["editlink","anchors"],
     "pluginsConfig": {
         "editlink": {
