@@ -41,12 +41,26 @@ clone 完毕后，请运行
 
 #### 部署环境
 
-参考基于腾讯云的一键不少脚本 cli/yun/init.sh
 
-主机环境为centos7 ， 运行时环境基于docker
+完整环境配置请参考基于腾讯云的一键部署脚本 
+
+```
+cli/yun/init.sh
+
+```
 
 
+主机环境为centos7 ， 运行时环境基于docker ubuntu
+
+如果数据库之类的准备就绪，运行
+
+
+```
 ./cli/once/install.sh
 
+```
+
+
+就可以完成部署。
 
 #TODO 补充完善如何个人部署。
