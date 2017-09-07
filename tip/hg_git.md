@@ -33,5 +33,5 @@ hg archive /target/folder/subfolder/
 
 ```
 
-这就是将Clone里面的项目全部导出到/target/folder/subfolder/目录下面。
+这就是将项目全部导出到/target/folder/subfolder/目录下面。
 
