@@ -13,4 +13,5 @@
   * [chrome](tip/chrome.md)
   * [mac](tip/mac.md)
 * [投资教程](invest.md)
+* [有待整理](you-dai-zheng-li.md)
 
