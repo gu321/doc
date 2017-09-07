@@ -38,6 +38,18 @@
     
   * [vibe.d](http://vibed.org/)
   
+#### 数据库
+
+* [PostgreSQL](https://www.postgresql.org/)
+  * [PostgreSQL新手入门](http://www.ruanyifeng.com/blog/2013/12/getting_started_with_postgresql.html)
+* [redis](https://redis.io/)
+  
+    redis的cache被当为memcache用，设置了所有key按LRU轮换（不是持久的）
+  * [redis中文手册](http://redisdoc.com/)
+* [pika](https://github.com/Qihoo360/pika/wiki)
+
+
+  
 #### 运维
 * [Caddy - The HTTP/2 Web Server with Automatic HTTPS](https://caddyserver.com/)
 * Docker
