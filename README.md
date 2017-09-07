@@ -2,11 +2,17 @@
 
 ## 新人导航
 
-### 项目文档
+### 文档
 
 1. 阅读 : [doc.gu321.org](https://doc.gu321.org)
-2. 源码 : [github.com/gu321/doc](https://github.com/gu321/doc)
-3. 撰写: [www.gitbook.com/book/gu321/gu321/edit](https://www.gitbook.com/book/gu321/gu321/edit)
+1. 源码 : [github.com/gu321/doc](https://github.com/gu321/doc)
+1. 撰写: [www.gitbook.com/book/gu321/gu321/edit](https://www.gitbook.com/book/gu321/gu321/edit)
+
+### 代码
+
+1. [网站源码（私有，请注册账号，告知管理员，申请只读权限）](http://git.oschina.net/gu321-com/gu321)
+  * 采用fork+pul request开发模式，参见[《如何在github上fork一个项目来贡献代码以及同步原作者的修改》](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)。普通开发者只有只读权限，代码改动请提交pull request。
+    
 
 ### 技术栈
 
@@ -15,7 +21,10 @@
 * [jQuery](https://jquery.com/)
 * [webpack](https://webpack.github.io/)
   * [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f)
+* [SCSS](http://sass-lang.com/)
+  * [SASS用法指南](http://www.ruanyifeng.com/blog/2012/06/sass.html)
 * [coffeescript](http://coffeescript.org/)
+* [slm](https://github.com/slm-lang/slm)
 
 
 #### 后端
