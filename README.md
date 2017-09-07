@@ -54,7 +54,10 @@ clone 完毕后，请运行
 
 ```
 
+然后编辑配置config.py配置文件（可以考虑添加config.py到自己私人的代码库，防止丢失）
 
+开发用的发信邮箱的配置参见teambition的文档[（文档链接）
+](/h ttps://www.teambition.com/project/598a920df8ca884016a5a8bc/posts)
 
 ### 技术栈
 
