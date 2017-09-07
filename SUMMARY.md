@@ -11,7 +11,7 @@
   * [hg & git](tip/hg_git.md)
   * [tmux](tip/tmux.md)
   * [chrome](tip/chrome.md)
-    * [plugin](tip/chrome/plugin.md)
+    * [chrome插件](tip/chrome/plugin.md)
   * [mac](tip/mac.md)
 * [投资教程](invest.md)
 * [有待整理](you-dai-zheng-li.md)
