@@ -2,5 +2,19 @@
     "styles": {
         "website": "./styles/page.css"
     }
+    
+  "plugins": ["editlink"],
+  "pluginsConfig": {
+    "editlink": {
+      "base": "https://github.com/zhaoda/webpack-handbook/edit/master/content",
+      "label":     "label": {
+        "en": "Edit This Page",
+        "zh-cn": "编辑本页"
+      },
+      "multilingual": ture
+    }
+  }
+  }
+
 }
 
