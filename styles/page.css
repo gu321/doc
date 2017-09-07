@@ -1,6 +1,15 @@
 @import url("//fonts.googleapis.com/earlyaccess/notosansscsliced.css");
 @import url("//fonts.googleapis.com/css?family=Lato:300,400|Rajdhani|Source+Code+Pro");
-
+a{
+cursor:pointer;
+}
+a:hover{
+color:#f40;
+border:0;
+}
+.markdown-section ol, .markdown-section ul{
+padding:0;
+}
 .markdown-section * {
     font-size:18px;
 }
