@@ -38,7 +38,7 @@ exec $SH docker exec -it gu321 timeout 24h bash -c "su\ -\ ol"
 数据库和caddy都运行在主机上，应用进程运行在容器内。
 
 
-[daocloud.io](https://dashboard.daocloud.io/orgs/vcwatch/build-flows/bba47cb4-13d4-4720-8790-f9926aa7eeb9)上有构建好的容器，参考线上环境部署脚本pull启动即可。
+[daocloud.io](https://dashboard.daocloud.io/orgs/vcwatch/build-flows/bba47cb4-13d4-4720-8790-f9926aa7eeb9)上有构建好的容器，申请访问权限后，参考线上环境部署脚本pull启动即可。
 
 
 **TODO@碧海潮生 : 参考线上部署的脚本，补充完善如何进行个人开发环境的部署**
