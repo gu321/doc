@@ -100,9 +100,7 @@ CONFIG.DNSPOD.SECRET
 
 
 
-开发用的发信邮箱的配置参见teambition的文档[（文档链接）
-](https://www.teambition.com/project/598a920df8ca884016a5a8bc/posts)
-
+开发用的发信邮箱的配置参见[tz_config配置说明](http://git.oschina.net/gu321/tz_config/blob/master/README.md)
 
 **最后，请记得添加config.py到自己fork之后的私人代码库，防止丢失**
 
