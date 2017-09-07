@@ -95,8 +95,7 @@ CONFIG.DNSPOD.ID
 CONFIG.DNSPOD.SECRET
 ```
 
-[
-请点此访问DNSPORD安全中心](/h ttps://www.dnspod.cn/console/user/security)获取（域名的NAMESERVER请用DNSPOD）
+[请点此访问DNSPORD安全中心](https://www.dnspod.cn/console/user/security)获取（域名的NAMESERVER请用DNSPOD）
 
 
 
