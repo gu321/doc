@@ -9,6 +9,11 @@
             "base": "https://www.gitbook.com/book/gu321/gu321/edit#/edit/master",
             "label": ""
         }
+    },
+    "links" : {
+    "sidebar" : {
+        "GU321.COM" : "http://gu321.com"
+        }
     }
 }
 
