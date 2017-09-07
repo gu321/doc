@@ -1,6 +1,6 @@
 {
     "styles": {
-        "website": "./styles/website.css"
+        "website": "./styles/page.css"
     }
 }
 
