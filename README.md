@@ -10,7 +10,7 @@
 
 ### 代码
 
-采用fork+pul request开发模式，参见
+采用fork+pull request开发模式，参见
 
 * [《如何在github上fork一个项目来贡献代码以及同步原作者的修改》](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)。
 
