@@ -33,7 +33,7 @@ redis启动了2个实例，
 
 其中cache实例被当为memcache用，设置了所有key按LRU轮换（不是持久的）。
 
-另一个redis实例db，计划用于作为消息队列。
+另一个redis实例db，计划用于实时消息队列（如聊天、股票行情）。
 
 用户数据存储基本都是用的postgresql 。
 
