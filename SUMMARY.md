@@ -11,5 +11,6 @@
   * [hg & git](tip/hg_git.md)
   * [tmux](tip/tmux.md)
   * [chrome](tip/chrome.md)
+  * [mac](tip/mac.md)
 * [投资教程](invest.md)
 
