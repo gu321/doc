@@ -6,7 +6,7 @@
     "pluginsConfig": {
         "editlink": {
             "base": "https://www.gitbook.com/book/gu321/gu321/edit",
-            "label":     "label": {
+            "label": {
                 "en": "EDIT",
                 "zh-cn": "编辑"
             },
