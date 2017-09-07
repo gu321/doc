@@ -1,5 +1,5 @@
-@import url(//fonts.googleapis.com/earlyaccess/notosansscsliced.css);
-@import url(//fonts.googleapis.com/css?family=Lato:300,400|Rajdhani);
+@import url("//fonts.googleapis.com/earlyaccess/notosansscsliced.css");
+@import url("//fonts.googleapis.com/css?family=Lato:300,400|Rajdhani|Source+Code+Pro");
 
 pre, html,                                                                                                                                                                       button,
 input,
@@ -13,6 +13,10 @@ textarea, h1, h2, h3, h4, h5 {
 h1, h2, h3, h4, h5 {
     font-family: Rajdhani,PingFang SC,Microsoft Yahei UI Light,Microsoft YaHei, Noto Sans SC Sliced, sans-serif;
     font-weight: 200;
+}
+
+pre{
+    font-family: 'Source Code Pro', Noto Sans SC Sliced, monospace;
 }
 
 body{
