@@ -16,4 +16,4 @@ HG是一个非常好用的代码控制工具（参见：[hg 简明教程](http:/
 
 所以，大家可以自行选择，不强求统一。
 
-但是请GIT的用户注意参考 .hgignore 设置 .gitignore 。
+**请GIT的用户注意参考 .hgignore 设置 .gitignore 。**
