@@ -20,7 +20,7 @@
 
 普通开发者只有只读权限，代码改动请提交pull request。
 
-网站 [git.oschina.net/gu321/tz](http://git.oschina.net/gu321/tz)
+WEB端 [git.oschina.net/gu321/tz](http://git.oschina.net/gu321/tz)
 
 ### 技术栈
 
