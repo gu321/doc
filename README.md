@@ -8,19 +8,49 @@
 1. 源码 : [github.com/gu321/doc](https://github.com/gu321/doc)
 1. 撰写: [www.gitbook.com/book/gu321/gu321/edit](https://www.gitbook.com/book/gu321/gu321/edit)
 
-### 代码
+### 开发流程
 
 采用fork+pull request开发模式，参见
 
 * [《如何在github上fork一个项目来贡献代码以及同步原作者的修改》](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)。
 
-#### 源码库
 
-私有，请注册账号，告知管理员，申请只读权限。
+### 配置环境
+
+#### WEB端
+
+
+源码 [git.oschina.net/gu321/tz](http://git.oschina.net/gu321/tz)
+配置文件 [git.oschina.net/gu321/tz_config](http://git.oschina.net/gu321/tz_config)
+
+代码私有，请注册账号，告知管理员，申请只读权限。
 
 普通开发者只有只读权限，代码改动请提交pull request。
 
-WEB端 [git.oschina.net/gu321/tz](http://git.oschina.net/gu321/tz)
+所以，首先请fork源码，然后clone自己的源码。
+
+源码目录关系如下
+
+tz -> ~/tz 
+tz_config -> ~/tz/cli/make/config/tz_config
+
+clone 完毕后，请运行
+
+```
+~/tz/cli/make/config/tz_config/make.py
+
+```
+
+
+生成初始化的配置文件 
+
+
+```
+~/tz/cli/make/config/tz_config/config.py
+
+```
+
+
 
 ### 技术栈
 
