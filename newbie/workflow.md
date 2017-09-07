@@ -1,4 +1,12 @@
-#### 注意事项
+# 开发流程
+
+
+开发流程采用fork+pull request开发模式，参见
+
+* [《如何在github上fork一个项目来贡献代码以及同步原作者的修改》](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)。
+
+
+## 注意事项
 
 代码库是GIT的，但是我是用HG-GIT。
 
