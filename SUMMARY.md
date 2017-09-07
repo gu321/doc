@@ -7,5 +7,6 @@
 * [工具技巧](tip.md)
   * [hg & git](tip/hg_git.md)
   * [tmux](tip/tmux.md)
+  * [chrome](tip/chrome.md)
 * [投资教程](invest.md)
 
