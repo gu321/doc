@@ -1,5 +1,8 @@
 @import url("//fonts.googleapis.com/earlyaccess/notosansscsliced.css");
 @import url("//fonts.googleapis.com/css?family=Lato:300,400|Rajdhani|Source+Code+Pro");
+body{
+background:url(//o3cuh1dri.qnssl.com/FDBPmFk.png) 0 0/412px #fafafa;
+}
 a{
 cursor:pointer;
 }
