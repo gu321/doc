@@ -24,6 +24,7 @@
 * [SCSS](http://sass-lang.com/)
   * [SASS用法指南](http://www.ruanyifeng.com/blog/2012/06/sass.html)
 * [coffeescript](http://coffeescript.org/)
+  * [coffeescript小书](https://read.douban.com/reader/ebook/198648/)
 * [slm](https://github.com/slm-lang/slm)
 
 
