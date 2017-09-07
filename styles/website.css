@@ -12,7 +12,9 @@
     font-size: 18px;
     border: 1px dashed #ccc;
 }
-
+.markdown-section{
+color:#000;
+}
 pre, html, button , input , optgroup , select , textarea , .book.font-family-1 {
     font-weight: normal;
     font-family: Lato,Noto Sans SC Sliced, sans-serif;
