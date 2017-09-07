@@ -12,10 +12,29 @@
 
 #### 前端
 
+* [jQuery](https://jquery.com/)
+* [webpack](https://webpack.github.io/)
+  * [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f)
+* [coffeescript](http://coffeescript.org/)
+
+
+#### 后端
+
+* [Caddy - The HTTP/2 Web Server with Automatic HTTPS](https://caddyserver.com/)
+* [python3](http://python.org/)
+* [D语言](https://dlang.org/) 
+  
+    用得较少，目前只用于自动补全的Trie树(并作为自动补全的webserver)。
+    如遇到一些对性能要求高的场景，会考虑使用。
+    
+  * [vibe.d](http://vibed.org/)
+
 #### 开发环境 \(仅供参考\)
 
 * VIM 
   * [vim 快速入门](/h ttp://z42.readthedocs.io/zh/latest/devtools/vim.html)
+* Docker
+  * [Docker 快速入门](http://z42.readthedocs.io/zh/latest/docker.html) 
 
 #### 注意事项
 
@@ -28,6 +47,4 @@ HG是一个非常好用的代码控制工具（参见：[hg 简明教程](http:/
 所以，大家可以自行选择，不强求统一。
 
 但是请GIT的用户注意参考 .hgignore 设置 .gitignore 。
-
-
 
