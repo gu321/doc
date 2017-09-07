@@ -10,9 +10,16 @@
 
 ### 代码
 
-1. [网站源码（私有，请注册账号，告知管理员，申请只读权限）](http://git.oschina.net/gu321/tz)
-  * 采用fork+pul request开发模式，参见[《如何在github上fork一个项目来贡献代码以及同步原作者的修改》](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)。普通开发者只有只读权限，代码改动请提交pull request。
+采用fork+pul request开发模式，参见
 
+* [《如何在github上fork一个项目来贡献代码以及同步原作者的修改》](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)。
+
+#### 源码库
+
+私有，请注册账号，告知管理员，申请只读权限。
+普通开发者只有只读权限，代码改动请提交pull request。
+
+网站 [git.oschina.net/gu321/tz](/h ttp://git.oschina.net/gu321/tz)
 
 ### 技术栈
 
