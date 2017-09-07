@@ -13,7 +13,7 @@
     border: 1px dashed #ccc;
 }
 
-pre, html, button , input , optgroup , select , textarea  {
+pre, html, button , input , optgroup , select , textarea , .book.font-family-1 {
     font-weight: normal;
     font-family: Lato,Noto Sans SC Sliced, sans-serif;
 }
@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6, .markdown-section h1, .markdown-section h2, .markdown-se
     font-weight: 200;
 }
 
-pre{
+.markdown-section pre{
     font-family: 'Source Code Pro', Noto Sans SC Sliced, monospace;
 }
 
