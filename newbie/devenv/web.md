@@ -35,7 +35,7 @@ exec $SH docker exec -it gu321 timeout 24h bash -c "su\ -\ ol"
 
 ## 部署个人开发环境
 
-因为线上环境的postgresql是用的腾讯云的数据库，所以，开发环境自己启动一个postgresql
+因为线上环境的postgresql是用的腾讯云的数据库，所以，开发环境需要自己启动一个postgresql 。
 
 参考 [cli/yun/init_tz.sh](http://git.oschina.net/gu321/tz/blob/master/cli/yun/init_tz.sh) 脚本，初始化postgresql数据库。
 
