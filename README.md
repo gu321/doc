@@ -12,7 +12,7 @@
 
 1. [网站源码（私有，请注册账号，告知管理员，申请只读权限）](http://git.oschina.net/gu321/tz)
   * 采用fork+pul request开发模式，参见[《如何在github上fork一个项目来贡献代码以及同步原作者的修改》](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)。普通开发者只有只读权限，代码改动请提交pull request。
-    
+
 
 ### 技术栈
 
@@ -29,7 +29,6 @@
 
 #### 后端
 
-* [Caddy - The HTTP/2 Web Server with Automatic HTTPS](https://caddyserver.com/)
 * [python3](http://python.org/)
 * [D语言](https://dlang.org/) 
   
@@ -37,13 +36,24 @@
     如遇到一些对性能要求高的场景，会考虑使用。
     
   * [vibe.d](http://vibed.org/)
+  
+#### 运维
+* [Caddy - The HTTP/2 Web Server with Automatic HTTPS](https://caddyserver.com/)
+* Docker
+  * [Docker 快速入门](http://z42.readthedocs.io/zh/latest/docker.html) 
 
-#### 开发环境 \(仅供参考\)
+
+#### 开发工具 \(仅供参考\)
 
 * VIM 
   * [vim 快速入门](/h ttp://z42.readthedocs.io/zh/latest/devtools/vim.html)
-* Docker
-  * [Docker 快速入门](http://z42.readthedocs.io/zh/latest/docker.html) 
+  
+#### 部署环境
+
+参考基于腾讯云的一键不少脚本 cli/yun/init.sh
+主机环境为centos7 ， 运行时环境基于docker
+
+#TODO 补充完善如何个人部署，可以新开一个单独的文档。
 
 #### 注意事项
 
