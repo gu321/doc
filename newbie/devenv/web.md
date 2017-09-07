@@ -35,17 +35,17 @@ exec $SH docker exec -it gu321 timeout 24h bash -c "su\ -\ ol"
 
 ## 部署个人开发环境
 
+首先需要启动数据库和caddy
+
+#TODO@碧海潮生 : 参考线上部署脚本 http://git.oschina.net/gu321/tz/blob/master/cli/yun/init_centos.sh  ，补充完善如何进行个人开发环境的部署
+
 因为线上环境的postgresql是用的腾讯云的数据库，所以，开发环境需要自己启动一个postgresql 。
 
 参考 [cli/yun/psql/init.sh](http://git.oschina.net/gu321/tz/blob/master/cli/yun/psql/init.sh) 脚本，初始化postgresql数据库。
 
 然后 [daocloud.io](https://dashboard.daocloud.io/orgs/vcwatch/build-flows/bba47cb4-13d4-4720-8790-f9926aa7eeb9)上有构建好的容器，申请访问权限后，参考线上环境部署脚本pull启动即可。
 
-#TODO@碧海潮生 : 参考线上部署的脚本，补充完善如何进行个人开发环境的部署
-
-init_tz.sh
-
-### 配置文件
+接着，生成配置文件
 
 **首先请fork源码，然后clone自己的源码**。
 
@@ -106,7 +106,8 @@ CONFIG.DNSPOD.SECRET
 
 **最后，请记得添加config.py到自己fork之后的私人代码库，防止丢失**
 
-完成配置后，如果数据库之类的准备就绪，运行
+完成配置后，如果数据库准备就绪，运行
+
 
 ```
 ./cli/once/install.sh
@@ -115,6 +116,16 @@ CONFIG.DNSPOD.SECRET
 
 就可以自动初始化开发环境了。
 
-之后，启动 ./dev 就可以进入开发调试了！
+之后，启动 
+
+
+
+```
+./dev 
+
+```
+
+
+就可以进入开发调试了！
 
 
