@@ -1,5 +1,5 @@
 {
-    "plugins": ["styles-sass"],
+    "plugins": ["styles-scss"],
     "styles": {
         "website": "./styles/website.scss"
     }
