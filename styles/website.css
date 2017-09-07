@@ -1,3 +1,5 @@
+@import url("//fonts.googleapis.com/earlyaccess/notosansscsliced.css");
+@import url("//fonts.googleapis.com/css?family=Lato:300,400|Rajdhani|Source+Code+Pro");
 
 .markdown-section * {
     font-size:18px;
@@ -11,3 +13,20 @@
     border: 1px dashed #ccc;
 }
 
+pre, html, button , input , optgroup , select , textarea , h1, h2, h3, h4, h5 {
+    font-weight: 300;
+    font-family: Lato,Noto Sans SC Sliced, sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: Rajdhani,PingFang SC,Microsoft Yahei UI Light,Microsoft YaHei, Noto Sans SC Sliced, sans-serif;
+    font-weight: 200;
+}
+
+pre{
+    font-family: 'Source Code Pro', Noto Sans SC Sliced, monospace;
+}
+
+body{
+    font-size:16px;
+}
