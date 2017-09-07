@@ -37,7 +37,7 @@ exec $SH docker exec -it gu321 timeout 24h bash -c "su\ -\ ol"
 
 因为线上环境的postgresql是用的腾讯云的数据库，所以，开发环境需要自己启动一个postgresql 。
 
-参考 [cli/yun/init_tz.sh](http://git.oschina.net/gu321/tz/blob/master/cli/yun/init_tz.sh) 脚本，初始化postgresql数据库。
+参考 [cli/yun/psql/init.sh](http://git.oschina.net/gu321/tz/blob/master/cli/yun/psql/init.sh) 脚本，初始化postgresql数据库。
 
 然后 [daocloud.io](https://dashboard.daocloud.io/orgs/vcwatch/build-flows/bba47cb4-13d4-4720-8790-f9926aa7eeb9)上有构建好的容器，申请访问权限后，参考线上环境部署脚本pull启动即可。
 
