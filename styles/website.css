@@ -1,3 +1,9 @@
+body{
+    font-size:16px;
+}
+.markdown-section * {
+    font-size:18px;
+}
 .markdown-section pre {
     background: #fcfff0;
     color: #060;
