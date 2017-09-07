@@ -6,6 +6,7 @@
   * [开发流程](newbie/workflow.md)
   * [配置开发环境](newbie/devenv.md)
     * [web](newbie/devenv/web.md)
+  * [目录结构](newbie/dir.md)
 * [工具技巧](tip.md)
   * [hg & git](tip/hg_git.md)
   * [tmux](tip/tmux.md)
