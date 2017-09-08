@@ -3,7 +3,7 @@
         "website": "./styles/page.css"
     },
     "language" : "zh-hans",
-    "plugins": ["editlink","anchors","tree"],
+    "plugins": ["editlink","anchors","tree","prism", "-highlight"],
     "pluginsConfig": {
         "editlink": {
             "base": "https://www.gitbook.com/book/gu321/gu321/edit#/edit/master",
