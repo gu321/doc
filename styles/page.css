@@ -16,6 +16,10 @@ color:#666;
 .book .book-summary ul.summary li a {
     color: #369;
 }
+.book .book-summary ul.summary li a:hover {
+color: #a40;
+text-decoration: none;
+}
 a{
 cursor:pointer;
 }
