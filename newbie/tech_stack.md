@@ -49,7 +49,7 @@ pika是奇虎公司出品的兼容redis的硬盘数据库，目前主要是存�
 * [Caddy - 自动配置https的服务器](https://caddyserver.com/)
 * Docker
     * [Docker 快速入门](http://z42.readthedocs.io/zh/latest/docker.html)
-* [supervisor - 进程管理](http://t.cn/RGmuP0g)
+* [supervisor - 进程守护](http://t.cn/RGmuP0g)
 
 
 #### 开发工具 \(仅供参考\)
