@@ -3,11 +3,15 @@
         "website": "./styles/page.css"
     },
     "language" : "zh-hans",
-    "plugins": ["editlink","anchors","tree","prism", "-highlight"],
+    "plugins": ["editlink","anchors","tree","prism", "-highlight","sitemap-general",],
     "pluginsConfig": {
         "editlink": {
             "base": "https://www.gitbook.com/book/gu321/gu321/edit#/edit/master",
             "label": ""
+        }
+        
+        "sitemap-general": {
+            "prefix": "http://dev.gu321.com"
         }
     },
     "links" : {
