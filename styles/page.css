@@ -14,7 +14,7 @@ color:#666;
     font-weight: bold;
 }
 .book .book-summary ul.summary li a {
-    color: #369;
+    color: #000;
 }
 .book .book-summary ul.summary li a:hover {
 color: #a40;
