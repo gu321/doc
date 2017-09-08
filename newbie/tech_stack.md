@@ -10,7 +10,13 @@
 * [coffeescript](http://coffeescript.org/)
     * [coffeescript小书](https://read.douban.com/reader/ebook/198648/)
 * [slm](https://github.com/slm-lang/slm)
+* [websocket](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
 
+## API
+
+* [hapi.js](https://hapijs.com/)
+    * [hapi.js在国内用的不多,我来稍微安利一下]( http://t.cn/RpLef0w)
+* [websockets/ws](https://github.com/websockets/ws)
 
 ## 后端
 
