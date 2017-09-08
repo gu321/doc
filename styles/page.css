@@ -9,7 +9,7 @@ background:rgba(255,255,255,.4);
 .book .book-summary ul.summary li span {
 color:#666;
 }
-.book .book-summary ul.summary li.active a {
+.book .book-summary ul.summary li.active > a {
     color: #090;
     font-weight: bold;
 }
