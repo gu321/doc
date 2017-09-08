@@ -7,7 +7,7 @@
         "editlink",
         "anchors",
 "expandable-chapters-small",
-"prism",     "markdown-parse-add-br",
+"prism",     "lb2br",
         "-highlight","sitemap-general"
        ],
     "pluginsConfig": {
