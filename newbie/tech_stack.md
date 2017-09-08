@@ -46,9 +46,10 @@ redis启动了2个实例，
 pika是奇虎公司出品的兼容redis的硬盘数据库，目前主要是存储的一些爬虫抓过来的数据（就是如果丢了，重新爬一边就是了，无所谓）。
 
 #### 运维
-* [Caddy - The HTTP/2 Web Server with Automatic HTTPS](https://caddyserver.com/)
+* [Caddy - 自动配置https的服务器](https://caddyserver.com/)
 * Docker
     * [Docker 快速入门](http://z42.readthedocs.io/zh/latest/docker.html)
+* [supervisor - 进程管理](http://t.cn/RGmuP0g)
 
 
 #### 开发工具 \(仅供参考\)
