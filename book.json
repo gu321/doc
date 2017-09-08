@@ -5,7 +5,9 @@
     "language" : "zh-hans",
     "plugins": [
         "editlink",
-        "anchors","expandable-chapters","prism", 
+        "anchors",
+"expandable-chapters-small",
+"prism", 
         "-highlight","sitemap-general",
            "anchor-navigation-ex"
        ],
