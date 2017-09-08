@@ -8,8 +8,7 @@
         "editlink": {
             "base": "https://www.gitbook.com/book/gu321/gu321/edit#/edit/master",
             "label": ""
-        }
-        
+        },
         "sitemap-general": {
             "prefix": "http://dev.gu321.com"
         }
