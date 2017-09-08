@@ -55,4 +55,4 @@ pika是奇虎公司出品的兼容redis的硬盘数据库，目前主要是存�
 #### 开发工具 \(仅供参考\)
 
 * VIM
-    * [vim 快速入门](/h ttp://z42.readthedocs.io/zh/latest/devtools/vim.html)
+    * [vim 快速入门](http://z42.readthedocs.io/zh/latest/devtools/vim.html)
