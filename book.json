@@ -8,7 +8,7 @@
         "anchors",
 "expandable-chapters-small",
 "prism", 
-        "-highlight","sitemap-general",
+        "-highlight","sitemap-general"
        ],
     "pluginsConfig": {
         "editlink": {
