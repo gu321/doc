@@ -6,6 +6,16 @@ background:url(//o3cuh1dri.qnssl.com/FDBPmFk.png) 0 0/412px #fafafa;
 .book-body{
 background:rgba(255,255,255,.4);
 }
+.book .book-summary ul.summary li span {
+color:#666;
+}
+.book .book-summary ul.summary li.active a {
+    color: #090;
+    font-weight: bold;
+}
+.book .book-summary ul.summary li a {
+    color: #369;
+}
 a{
 cursor:pointer;
 }
