@@ -41,7 +41,7 @@ redis启动了2个实例，
 
 另一个redis实例db，用于实时消息队列（如聊天、股票行情）。
 
-此外，REDIS4支持了模块，有不少扩展命令。比如，[mzscore](http://r edismodules.com/commands/mzscore/)，为了方便，会用一用。
+此外，REDIS4支持了模块，有不少扩展命令。比如，[mzscore](https://github.com/RedisLabsModules/redex#rxzsets)，为了方便，会用一用。
 
 用户数据存储基本都是用的postgresql 。
 
