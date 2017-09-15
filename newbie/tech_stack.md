@@ -39,11 +39,14 @@ redis启动了2个实例，
 
 其中cache实例被当为memcache用，设置了所有key按LRU轮换（不是持久的）。
 
-另一个redis实例db，计划用于实时消息队列（如聊天、股票行情）。
+另一个redis实例db，用于实时消息队列（如聊天、股票行情）。
+
+此外，REDIS4支持了模块，有不少扩展命令。比如，[mzscore](http://r edismodules.com/commands/mzscore/)，为了方便，会用一用。
 
 用户数据存储基本都是用的postgresql 。
 
 pika是奇虎公司出品的兼容redis的硬盘数据库，目前主要是存储的一些爬虫抓过来的数据（就是如果丢了，重新爬一边就是了，无所谓）。
+
 
 #### 运维
 * [Caddy - 自动配置https的服务器](https://caddyserver.com/)
