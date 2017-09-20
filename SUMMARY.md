@@ -13,6 +13,8 @@
   * [chrome](tip/chrome.md)
     * [chrome插件](tip/chrome/plugin.md)
   * [mac](tip/mac.md)
+* [宣传软文](soft_post.md)
+  * [中芯国际](soft_post/HK-00981.md)
 * [投资教程](invest.md)
 * [有待整理](you-dai-zheng-li.md)
 * [开卷有益](good_book.md)
