@@ -15,7 +15,7 @@
 
 ## 生活自理
 
-    0.  [美国孩子的家务清单](http://link.zhihu.com/?target=http%3A//weibo.com/ttarticle/p/show%3Fid%3D2309404007001419054243)
+0.  [美国孩子的家务清单](http://link.zhihu.com/?target=http%3A//weibo.com/ttarticle/p/show%3Fid%3D2309404007001419054243)
 
 ## 学习技巧
 
