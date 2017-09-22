@@ -111,6 +111,8 @@
 
 [巴菲特不会写给你的一封信](http://link.zhihu.com/?target=https%3A//xueqiu.com/5780378715/79806017)
 
+[巴菲特唯一推崇的私募基金：3G资本史诗级深度研究](http://t.cn/RSOS9mW)
+
 [郭广昌:复星投资哲学(湖畔大学授课内容全文+PPT）](http://t.cn/RSTBDNV)
 
 [查理·芒格的智慧箴言录](http://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1nvz1FW9)
