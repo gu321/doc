@@ -52,6 +52,11 @@
 0. [桥水资本 - 雷·达里奥 : Principles](https://book.douban.com/subject/20036150/)
     0. [书评: 达里奥谈决策 ](http://t.cn/R0boz0Q)
     0. [中英文对照版](http://www.zhibimo.com/read/wang-miao/yuan-ze/)
+0. [共同基金常识](https://book.douban.com/subject/7051700/)
+    0. [高瓴创始人张磊为本书做序](https://xueqiu.com/7211544918/92859059)
+
+
+
 
 ## 政治
 
