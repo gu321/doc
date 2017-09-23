@@ -49,6 +49,8 @@
 0. 投资必修课 - GOOGLE 表格函数 : NAV IRR XIRR MIRR  
 0. 彼得林奇的三部曲
 0. 安全边际：为有想法的投资者准备的风险规避型价值投资策略
+0. [桥水资本 - 雷·达里奥 : Principles](https://book.douban.com/subject/20036150/)
+    0. [书评: 达里奥谈决策 ](http://t.cn/R0boz0Q)
 
 ## 政治
 
