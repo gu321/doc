@@ -42,7 +42,7 @@
 ## 金融
 
 [百度网盘](https://pan.baidu.com/s/1dFgtWWT)
-
+0. [穷爸爸富爸爸里面说的“现金流游戏”靠谱吗? - 知乎](http://t.cn/RtpP5qz)
 0. 乱世华尔街
 0. 聪明的投资者
 0. 查理·芒格的智慧箴言录
@@ -110,6 +110,7 @@
 2.  [浪潮之巅 (豆瓣)](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/6709783/)
 3.  [数学之美 (豆瓣)](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/10750155/)
 4.  [古今数学思想](http://link.zhihu.com/?target=https%3A//book.douban.com/series/21993)
+
 
 ## 文章收藏
 
