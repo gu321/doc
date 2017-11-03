@@ -18,5 +18,5 @@
 * [投资教程](invest.md)
 * [有待整理](you-dai-zheng-li.md)
 * [开卷有益](good_book.md)
-* [股票观察](gu-piao-guan-cha.md)
+* [股票观察](com.md)
 
