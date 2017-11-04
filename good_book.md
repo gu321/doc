@@ -92,7 +92,7 @@
 0. [棉花糖实验](http://t.cn/RlcGBwN)
 
     [懂得「克制自己欲望的人」，能拥有更大的成就](http://t.cn/RlcqkFx)
-    [《棉花糖实验》 沃尔特·米歇尔](/h ttps://1drv.ms/u/s!Aphfx0vZaSb6lnxSKZjXeXlBI3Qu)
+    [《棉花糖实验》 沃尔特·米歇尔](https://1drv.ms/u/s!Aphfx0vZaSb6lnxSKZjXeXlBI3Qu)
 
 0.  [天资差异 (豆瓣)](http://link.zhihu.com/?target=http%3A//t.cn/Rq6JpVW)
 0.  [暗时间 (豆瓣)](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/6709809/)
