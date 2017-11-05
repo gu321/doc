@@ -4,9 +4,8 @@
 * [新手上路](newbie.md)
   * [技术栈](newbie/tech_stack.md)
   * [开发流程](newbie/workflow.md)
-  * [配置开发环境](newbie/pei-zhi-kai-fa-huan-jing.md)
-    * [web](newbie/devenv/web.md)
   * [目录结构](newbie/dir.md)
+  * [配置开发环境 - web](newbie/devenv/web.md)
 * 工具技巧
   * [hg & git](tip/hg_git.md)
   * [tmux](tip/tmux.md)
