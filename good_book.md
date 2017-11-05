@@ -122,6 +122,8 @@
 
 ## 2016
 
+[7分钟帮你学会富人思维，《富爸爸穷爸爸》解读](/h ttp://www.365yg.com/item/6323520323484385794/)
+
 [克虏伯的军火](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/20388325/)
 
 [巴菲特不会写给你的一封信](http://link.zhihu.com/?target=https%3A//xueqiu.com/5780378715/79806017)
