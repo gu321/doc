@@ -22,6 +22,8 @@
 
 0.  [浅说：如何选择自己需要的书籍并快速的吸收知识](http://link.zhihu.com/?target=http%3A//tieba.baidu.com/p/3410611814%3Fsee_lz%3D1)
 0.  [刘未鹏 ：为什么你应该（从现在开始就）写博客](http://link.zhihu.com/?target=http%3A//mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/)
+0. [教育强国芬兰用项目式学习PBL，培养孩子7种跨界能力](http://t.cn/RlxdkdX)
+0. [芬兰教育 世界第一的祕密｜教育｜教育趋势｜2011-05-06｜天下杂志第384期](http://t.cn/zRfceST)
 
 ## 人际关系
 
