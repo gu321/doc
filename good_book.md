@@ -124,6 +124,8 @@
 
 ## 2016
 
+[芒格十大演讲](https://1drv.ms/b/s!Aphfx0vZaSb6ln0sc_Xfyb55i358)
+
 [7分钟帮你学会富人思维，《富爸爸穷爸爸》解读](http://www.365yg.com/item/6323520323484385794/)
 
 [克虏伯的军火](http://link.zhihu.com/?target=https%3A//book.douban.com/subject/20388325/)
