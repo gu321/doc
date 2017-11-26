@@ -3,6 +3,8 @@
 ## 项目需求、设计 - 一期
 
 
+IP hash保存起点 hash保存终点
+IP 
 
 
 
@@ -33,6 +35,8 @@
 ## 资料
 
 ### P2P协议
+
+* [磁力链接是如何实现下载的？](http://www.aneasystone.com/archives/2015/05/how-does-magnet-link-work.html)
 
 * [IPFS：替代HTTP的分布式网络协议](http://www.infoq.com/cn/articles/ipfs)
 
