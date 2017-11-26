@@ -19,4 +19,5 @@
 * [开卷有益](good_book.md)
 * [股票观察](com.md)
 * [常用站点](link.md)
+* [桌面应用](desktop.md)
 
