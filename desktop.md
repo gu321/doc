@@ -62,6 +62,8 @@ https://www.paysapi.com/
 * [用 Electron 打造 Win/Mac 应用，从「代码」到可下载的「安装包」，可能比你想得麻烦一点](https://segmentfault.com/a/1190000011908324)
 
 
+
+
 到这里，已经算是小功告成了；但是你会发现当关闭app后，直接退出了，dock栏里面的electron图标也不见了。想要再次打开，还要去命令行跑一次。
 
 因为现在的index.js是最简易的，只是创建了一个窗口。现在添加如下代码
