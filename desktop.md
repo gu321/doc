@@ -34,6 +34,8 @@ https://www.paysapi.com/
 6. 
 
 
+
+
 ## 资料
 
 ### P2P协议
@@ -47,8 +49,12 @@ https://www.paysapi.com/
 
 ### 桌面端开发 
 
-* [使用 Electron 将应用程序放入托盘](https://segmentfault.com/a/1190000008530265)
 
+* [Electron 深度实践总结](https://changkun.us/archives/2017/03/217/)
+
+* [一口气完成electron的入门学习](https://segmentfault.com/a/1190000006207600)
+
+* [使用 Electron 将应用程序放入托盘](https://segmentfault.com/a/1190000008530265)
 
 * [Electron API 演示(中文版)](https://github.com/demopark/electron-api-demos-Zh_CN)
 
