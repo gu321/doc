@@ -1,4 +1,19 @@
-# 桌面应用
+# P2P文件夹分享
+
+## 项目目标 - 一期
+
+实现无中心服务器的P2P的文件夹分享。
+
+## 资料
+
+### P2P协议
+
+* [IPFS：替代HTTP的分布式网络协议](http://www.infoq.com/cn/articles/ipfs)
+
+* [zeronet:开放，自由，去中心化的网络](https://zeronet.io)
+
+
+### 桌面端开发 
 
 * [使用 Electron 将应用程序放入托盘](https://segmentfault.com/a/1190000008530265)
 
